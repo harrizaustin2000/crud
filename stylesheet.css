@@ -1,0 +1,36 @@
+body {
+  background-color: #d3f2ff;
+}
+
+.container {
+  background-color: yellow;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+  display: flex;
+  align-items: center;
+  width: 600px;
+  height: 110px;
+  border-radius: 15px;
+  margin-left: 280px;
+}
+
+.pic {
+  border-radius: 50px;
+  width: 80px;
+  height: 80%;
+  margin-left: 1rem;
+  display: flex;
+}
+
+.info {
+  margin-left: 1rem;
+}
+
+.button {
+  margin-left: 3rem;
+  margin-bottom: 1rem;
+}
+
+.new_user_class {
+  margin-bottom: 2rem;
+}
